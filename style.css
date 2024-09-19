@@ -1,0 +1,93 @@
+body{
+    background-color: #F3E5D8;
+    
+}
+
+
+.Principal {
+background-color: rgb(251, 246, 248);
+max-width: 600px;
+margin: 0 auto;
+padding: 20px;
+border-radius: 15px;
+margin-top: 10px;
+color: gray;
+
+    
+}
+
+.Preparation{
+    border-radius: 15px;
+}
+.Preparation{
+
+    background-color: rgb(252, 238, 238);
+    padding: 20px;
+    font-size: small;
+}
+
+h3{
+    color: rgb(169, 22, 22);
+    font-family: "Arial", sans-serif;
+    
+   
+
+}
+h4{
+    color: brown;
+    font-family: "Arial", sans-serif;
+    }
+
+.ingredients{
+    color: rgb(169, 22, 22);
+   
+
+}
+.Imagen img{
+    border-radius: 10px;
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    .Principal {
+        max-width: 100%; 
+        padding: 10px; 
+        margin-top: 5px;
+    }
+}
+
+table{
+
+    width: 100%;
+}
+.red-text {
+    color: rgb(169, 22, 22); 
+}
+
+.text-verde{
+
+    color: rgb(98, 99, 97);
+}
+
+.divider-cell {
+    border-top: 1px solid #d1c6c6; 
+}
+.title{
+    color: black;
+}
+
+p{
+    
+    font-size: 14px;
+
+}
+
+li{
+    font-family: "arial";
+    font-size: 14px; 
+}
+
+td{
+    font-family: "arial";
+    font-size: 14px;
+}
